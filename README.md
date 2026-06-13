@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Nouraiz!&fontSize=70&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20DevOps%20Specialist%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Nouraiz!&fontSize=70&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Engineer&descAlignY=55&descAlign=62" />
 </div>
 
 ### 👨‍💻 About Me
 - 🎓 **Education:** Pursuing a Bachelor's in Computer Science at **COMSATS University Islamabad** (Class of 2026).
-- 🧠 **Focus:** Specialized in **Artificial Intelligence, Machine Learning**, and **DevOps** architectures.
+- 🧠 **Focus:** Passionate about **Software Engineering**, **Artificial Intelligence**, and building scalable applications.
 - 🚀 **Currently Building:** **PLANIK-AI**, an AI-driven Custom Architecture Planner using PyTorch, GNNs, and Django.
 - 💡 **Interests:** Generative AI, Computer Vision, Cloud-Native Applications (K8s/Docker), and Scalable Systems.
 - 🌐 **Portfolio:** Check out my work at [portfolio-nouraiz-virk.vercel.app](https://portfolio-nouraiz-virk.vercel.app/)
